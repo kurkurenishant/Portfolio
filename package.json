@@ -1,0 +1,31 @@
+{
+  "name": "portfolio-nishant-kurkure",
+  "version": "1.0.0",
+  "description": "High-converting, responsive personal portfolio website tailored for Computer Science & AI Engineer Nishant Avinash Kurkure.",
+  "scripts": {
+    "dev": "python3 -m http.server 3000",
+    "start": "npx serve . -l 3000",
+    "open": "open http://localhost:3000"
+  },
+  "keywords": [
+    "portfolio",
+    "computer-science",
+    "artificial-intelligence",
+    "software-engineering",
+    "python",
+    "computer-networks",
+    "uizard",
+    "wepik",
+    "hacktoberfest"
+  ],
+  "author": "Nishant Avinash Kurkure <kurkurenishant@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://kurkurenishant.github.io/Portfolio/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kurkurenishant/Portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kurkurenishant/Portfolio/issues"
+  }
+}
