@@ -175,7 +175,7 @@ All skills are substantiated by direct hyperlinks to production codebases and pu
 
 - **Professional Email:** [`kurkurenishant@gmail.com`](mailto:kurkurenishant@gmail.com)
 - **GitHub Profile:** [`https://github.com/kurkurenishant`](https://github.com/kurkurenishant) *(Matches course contribution handle `@kurkurenishant`)*
-- **LinkedIn Profile:** [`https://www.linkedin.com/in/nishant-avinash-kurkure`](https://www.linkedin.com/in/nishant-avinash-kurkure)
+- **LinkedIn Profile:** [`https://www.linkedin.com/in/nishant-kurkure-8301172a4/`](https://www.linkedin.com/in/nishant-kurkure-8301172a4/)
 - **Live Portfolio URL:** [`https://kurkurenishant.github.io/Portfolio/`](https://kurkurenishant.github.io/Portfolio/)
 
 ---
