@@ -42,11 +42,11 @@ This repository hosts the official personal portfolio of **Nishant Avinash Kurku
 
 | Section | Rubric Allocation | Evaluation Criteria Fulfilled | Portfolio Section Anchor |
 | :--- | :---: | :--- | :--- |
-| **1. About me** | **1.0 Mark** | 3–5 sentence concise paragraph detailing B.Tech degree program, 2nd-year standing, applied AI/NLP & systems focus, and internship targets. | [`#about`](https://kurkurenishant.github.io/Portfolio/#about) |
+| **1. About me** | **1.0 Mark** | 3–5 sentence concise paragraph detailing B.Tech degree program, 1st-year standing, applied AI/NLP & systems focus, and internship targets. | [`#about`](https://kurkurenishant.github.io/Portfolio/#about) |
 | **2. Skills** | **1.5 Marks** | Categorized technical skills (Core CS, AI & ML, Testing & Tools). Every single entry links directly to relevant project code or course pull requests. | [`#skills`](https://kurkurenishant.github.io/Portfolio/#skills) |
 | **3. S&AI Contributions** | **3.0 Marks** | Identifies course core repo (`S-AI-Projects/python-mini-project`) & student fork (`kurkurenishant/python-mini-project_e26b07f0753`). Details all 10 pull requests with Task IDs, descriptions of code modifications, and technical rationales. | [`#contributions`](https://kurkurenishant.github.io/Portfolio/#contributions) |
 | **4. Projects** | **2.5 Marks** | Detailed overviews of 4 production-grade technical projects covering problem statements, solution architectures, tech stacks, individual contributions, and documentation links. | [`#projects`](https://kurkurenishant.github.io/Portfolio/#projects) |
-| **5. Education & Achievements** | **1.0 Mark** | Academic background (B.Tech at Newton School of Technology, Class of 2028) + 4 verified accomplishments (S&AI milestone, Hacktoberfest Finalist, GSSoC contributor, AI Suite deployment) with dates and links. | [`#education`](https://kurkurenishant.github.io/Portfolio/#education) |
+| **5. Education & Achievements** | **1.0 Mark** | Academic background (B.Tech at Newton School of Technology, Batch 2026–2030) + 4 verified accomplishments (S&AI milestone, Hacktoberfest participant, GSSoC contributor, AI Suite deployment) with dates and links. | [`#education`](https://kurkurenishant.github.io/Portfolio/#education) |
 | **6. Contact** | **1.0 Mark** | Verified functional links to Professional Email, GitHub (`@kurkurenishant` matching PR author), and official LinkedIn network. | [`#contact`](https://kurkurenishant.github.io/Portfolio/#contact) |
 | **Total** | **10.0 / 10.0** | **Complete coverage across all 6 mandatory sections without placeholder text.** | |
 
@@ -54,7 +54,7 @@ This repository hosts the official personal portfolio of **Nishant Avinash Kurku
 
 ## 👤 Section 1: About Me
 
-> *“I am a second-year undergraduate pursuing a Bachelor of Technology (B.Tech) in Computer Science and Artificial Intelligence (Class of 2028, Cohort Hopper) at Newton School of Technology. My primary technical focus centers on applied artificial intelligence, natural language processing, client-side neural model architectures, and socket-level network protocols in Python. Driven by mathematical rigor and asymptotic efficiency, I engineer modular software systems that bridge algorithmic theory with interactive browser-based visual tooling. My professional objective is to secure Software Engineering and AI/ML Research Internships where I can contribute to production-grade distributed architectures, open-source repositories, and intelligent data systems.”*
+> *“I am a first-year undergraduate pursuing a Bachelor of Technology (B.Tech) in Computer Science and Artificial Intelligence (Batch 2026–2030) at Newton School of Technology. My primary technical focus centers on applied artificial intelligence, natural language processing, client-side neural model architectures, and socket-level network protocols in Python. Driven by mathematical rigor and asymptotic efficiency, I engineer modular software systems that bridge algorithmic theory with interactive browser-based visual tooling. My professional objective is to secure Software Engineering and AI/ML Research Internships where I can contribute to production-grade distributed architectures, open-source repositories, and intelligent data systems.”*
 
 ---
 
@@ -147,8 +147,8 @@ All skills are substantiated by direct hyperlinks to production codebases and pu
 ### Academic Qualifications
 - **Degree Program:** Bachelor of Technology (B.Tech) in Computer Science & Artificial Intelligence
 - **Institution:** Newton School of Technology (NST)
-- **Academic Timeline:** 2024 – 2028 (Expected Graduation: May 2028)
-- **Current Standing:** 2nd Year Undergraduate (Cohort Hopper)
+- **Academic Timeline:** 2026 – 2030 (Expected Graduation: May 2030)
+- **Current Standing:** 1st Year Undergraduate (Batch 2026–2030)
 - **Core Coursework:** Systems & Artificial Intelligence (S&AI), Data Structures & Algorithms, Computer Networks (TCP/IP, Sockets), Database Management Systems, Discrete Mathematics, Object-Oriented Software Design in Python.
 
 ### Verified Accomplishments (with Verification Links & Dates)
@@ -156,9 +156,9 @@ All skills are substantiated by direct hyperlinks to production codebases and pu
    - *Date:* November 2026
    - *Details:* Authored, documented, and delivered 10 comprehensive pull requests covering boundary analysis, regression coverage, and mutation resistance to the core course repository.
    - *Verification Link:* [GitHub S-AI-Projects PR Query Record](https://github.com/S-AI-Projects/python-mini-project/pulls?q=is%3Apr+author%3Akurkurenishant)
-2. **Hacktoberfest Hack Day Overnight Sprint — Finalist:**
+2. **Hacktoberfest Hack Day Overnight Sprint — Participant:**
    - *Date:* October 2026
-   - *Details:* Selected as Finalist in an intensive overnight 24-hour collective hackathon; integrated rapid Uizard wireframing with low-latency Python backend logic and collaborative Git Flow branches.
+   - *Details:* Participated in an intensive overnight 24-hour collective hackathon; integrated rapid Uizard wireframing with low-latency Python backend logic and collaborative Git Flow branches.
    - *Verification Link:* [Portfolio Hackathon Spotlight & Manifest](https://github.com/kurkurenishant/Portfolio#hackathons)
 3. **GirlScript Summer of Code (GSSoC 2026) — Assigned Contributor:**
    - *Date:* 2026
